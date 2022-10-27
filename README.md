@@ -4,5 +4,5 @@
   <h6>Scaler Pro</h6>
   <h1><b>COMMUNITY</b></h1>
   <p>Large-scale change is grounded in small steps toward a big idea</p>
-  <a href="https://github.com/scalerpro/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/scalerpro/topics/issues/1">README</a> | <a href="https://github.com/scalerpro/topics/issues/1">Directory</a> | <a href="https://github.com/scalerpro/topics/issues/1">Topics</a> |
+  <a href="https://github.com/scalerpro/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/scalerpro/community/issues/1">README</a> | <a href="https://github.com/scalerpro/community/issues/1">Directory</a> | <a href="https://github.com/scalerpro/community/issues/1">Topics</a> |
 </div>
