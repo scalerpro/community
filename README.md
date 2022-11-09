@@ -13,9 +13,9 @@
   
 | Project | Links |
 |-|-|
-| [:inbox_tray: Inbox](https://github.com/scalerpro/inbox) | [Contribute]()&ensp;[New]()&ensp; |
-| [:sunglasses: Awesome](https://github.com/scalerpro/awesome) | [Contribute]()&ensp;[New]()&ensp; |
-| [:triangular_ruler: Blueprint](https://github.com/scalerpro/blueprint) |[Contribute]()&ensp;[New]()&ensp;  |
-| [:incoming_envelope: Newsletter](https://github.com/scalerpro/newsletter) | [Contribute]()&ensp;[New]()&ensp; |
+| [:inbox_tray: Inbox](https://github.com/scalerpro/inbox) | [README](https://github.com/scalerpro/inbox/issues/1)&ensp;[Directory](https://github.com/scalerpro/inbox/issues/2)&ensp;[Topics](https://github.com/scalerpro/inbox/issues/3)&ensp;[New]()&ensp; |
+| [:sunglasses: Awesome](https://github.com/scalerpro/awesome) | [README]((https://github.com/scalerpro/awesome/issues/1)&ensp;[Directory](https://github.com/scalerpro/awesome/issues/2)&ensp;[Topics](https://github.com/scalerpro/awesome/issues/3)[New]()&ensp; |
+| [:triangular_ruler: Blueprint](https://github.com/scalerpro/blueprint) |[README]((https://github.com/scalerpro/blueprint/issues/1)&ensp;[Directory](https://github.com/scalerpro/blueprint/issues/2)&ensp;[Topics](https://github.com/scalerpro/blueprint/issues/3)[New]()&ensp;  |
+| [:incoming_envelope: Newsletter](https://github.com/scalerpro/newsletter) | [README]((https://github.com/scalerpro/newsletter/issues/1)&ensp;[Directory](https://github.com/scalerpro/newsletter/issues/2)&ensp;[Topics](https://github.com/scalerpro/newsletter/issues/3)[New]()&ensp; |
 
 </div>
