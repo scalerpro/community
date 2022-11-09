@@ -7,7 +7,7 @@
   <a href="https://github.com/scalerpro/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/scalerpro/community/issues/1">README</a> | <a href="https://github.com/scalerpro/community/issues/1">Directory</a> | <a href="https://github.com/scalerpro/community/issues/1">Topics</a> |
 </div>
 
-| | | |
+| | Project | Links |
 |-|-|-|
 | :inbox_tray: | [Inbox]() | [Contribute]()&ensp;[New]()&ensp; |
 | :sunglasses: | [Awesome]() | [Contribute]()&ensp;[New]()&ensp; |
