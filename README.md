@@ -17,6 +17,6 @@
 | [:sunglasses: Awesome](https://github.com/scalerpro/awesome) | [README](https://github.com/scalerpro/awesome/issues/1)&ensp;[Directory](https://github.com/scalerpro/awesome/issues/2)&ensp;[Topics](https://github.com/scalerpro/awesome/issues/3)&ensp;[New]() |
 | [:triangular_ruler: Blueprint](https://github.com/scalerpro/blueprint) |[README](https://github.com/scalerpro/blueprint/issues/1)&ensp;[Directory](https://github.com/scalerpro/blueprint/issues/2)&ensp;[Topics](https://github.com/scalerpro/blueprint/issues/3)&ensp;[New]() |
 | [:incoming_envelope: Newsletter](https://github.com/scalerpro/newsletter) | [README](https://github.com/scalerpro/newsletter/issues/1)&ensp;[Directory](https://github.com/scalerpro/newsletter/issues/2)&ensp;[Topics](https://github.com/scalerpro/newsletter/issues/3)&ensp;[New]() |
-| [:business_suit_levitating: Job Board](https://github.com/scalerpro/job) | [README](https://github.com/scalerpro/job/issues/1)&ensp;[Directory](https://github.com/scalerpro/job/issues/2)&ensp;[Topics](https://github.com/scalerpro/job/issues/3)&ensp;[New]() |
+| [:business_suit_levitating: Job Board](https://github.com/scalerpro/jobs) | [README](https://github.com/scalerpro/jobs/issues/1)&ensp;[Directory](https://github.com/scalerpro/jobs/issues/2)&ensp;[Topics](https://github.com/scalerpro/jobs/issues/3)&ensp;[New]() |
 
 </div>
