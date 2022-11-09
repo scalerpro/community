@@ -13,9 +13,9 @@
   
 | Project | Links |
 |-|-|
-| :inbox_tray: [Inbox]() | [Contribute]()&ensp;[New]()&ensp; |
-| :sunglasses: [Awesome]() | [Contribute]()&ensp;[New]()&ensp; |
-| :triangular_ruler: [Blueprint]() |[Contribute]()&ensp;[New]()&ensp;  |
-| :incoming_envelope: [Newsletter]() | [Contribute]()&ensp;[New]()&ensp; |
+| [:inbox_tray: Inbox]() | [Contribute]()&ensp;[New]()&ensp; |
+| [:sunglasses: Awesome]() | [Contribute]()&ensp;[New]()&ensp; |
+| [:triangular_ruler: Blueprint]() |[Contribute]()&ensp;[New]()&ensp;  |
+| [:incoming_envelope: Newsletter]() | [Contribute]()&ensp;[New]()&ensp; |
 
 </div>
