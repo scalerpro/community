@@ -13,9 +13,9 @@
   
 | Project | Links |
 |-|-|
-| [:inbox_tray: Inbox]() | [Contribute]()&ensp;[New]()&ensp; |
-| [:sunglasses: Awesome]() | [Contribute]()&ensp;[New]()&ensp; |
-| [:triangular_ruler: Blueprint]() |[Contribute]()&ensp;[New]()&ensp;  |
-| [:incoming_envelope: Newsletter]() | [Contribute]()&ensp;[New]()&ensp; |
+| [:inbox_tray: Inbox](https://github.com/scalerpro/inbox) | [Contribute]()&ensp;[New]()&ensp; |
+| [:sunglasses: Awesome](https://github.com/scalerpro/awesome) | [Contribute]()&ensp;[New]()&ensp; |
+| [:triangular_ruler: Blueprint](https://github.com/scalerpro/blueprint) |[Contribute]()&ensp;[New]()&ensp;  |
+| [:incoming_envelope: Newsletter](https://github.com/scalerpro/newsletter) | [Contribute]()&ensp;[New]()&ensp; |
 
 </div>
